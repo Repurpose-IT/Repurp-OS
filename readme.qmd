@@ -18,7 +18,9 @@ Fecha: 2025-06-30 - 2025-07-04
 
 ## Herramientas
 
-### Nuestro Forge: Github https://github.com/Repurpose-IT/Repurp-OS
+### Nuestro Forge: Github
+
+https://github.com/Repurpose-IT/Repurp-OS
 
 > Github no es ideal, pero es usado por todo el mundo.
 
