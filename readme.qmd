@@ -1,0 +1,30 @@
+# Hackathon Repurp-OS 
+
+Lugar: Los Monchis
+Fecha: 2025-06-30 - 2025-07-04
+
+## Objetivos
+
+* Preparar, ajustar un sistema operativo para las laptops de Repurpopse-IT.
+* Flashear este sistema en 100+ máquinas.
+* Proponer metodologías ágiles para el diseño y desarrollo de planes de lección.
+
+## Metodología Ágil
+
+* Referencias (TBD)
+* User Stories
+* Touch base (1x day) (en qué estoy trabajando - en qué estoy **bloqueada** - en qué _necesito u ofrezco_ ayuda)
+* Sprint Review (Demo Wednesday)
+
+## Herramientas
+
+### Nuestro Forge: Github Issues
+
+> Github no es ideal, pero es usado por todo el mundo.
+
+* Lo usamos para registrar "Issues" especialmente.
+* También para gestión de proyecto ("Kanban")
+
+### Nuestro Chat: Whatasapp Web
+
+> Tampoco es ideal, pero ya lo estamos usando.
