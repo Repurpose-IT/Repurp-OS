@@ -18,14 +18,17 @@ Fecha: 2025-06-30 - 2025-07-04
 
 ## Herramientas
 
-### Nuestro Forge: Github
+### Nuestro Forge: [Github](https://github.com/Repurpose-IT/Repurp-OS)
 
-https://github.com/Repurpose-IT/Repurp-OS
+* Lo usamos para registrar "Issues" principalmente.
+
+Issue tracker: [https://github.com/Repurpose-IT/Repurp-OS/issues](https://github.com/Repurpose-IT/Repurp-OS/issues)
+
+* También para gestión de proyecto ("Kanban")
+
+Backlog: [https://github.com/Repurpose-IT/Repurp-OS/projects/1](https://github.com/Repurpose-IT/Repurp-OS/projects/1)
 
 > Github no es ideal, pero es usado por todo el mundo.
-
-* Lo usamos para registrar "Issues" especialmente.
-* También para gestión de proyecto ("Kanban")
 
 ### Nuestro Chat: Whatasapp Web ("parceros 2025")
 
