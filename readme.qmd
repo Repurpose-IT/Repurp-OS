@@ -11,7 +11,7 @@ Fecha: 2025-06-30 - 2025-07-04
 
 ## Metodología Ágil
 
-* Referencias (TBD)
+* Referencias: https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-agile
 * User Stories
 * Touch base (1x day) (en qué estoy trabajando - en qué estoy **bloqueada** - en qué _necesito u ofrezco_ ayuda)
 * Sprint Review (Demo Wednesday)
