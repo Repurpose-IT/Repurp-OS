@@ -16,6 +16,13 @@ Fecha: 2025-06-30 - 2025-07-04
 * Touch base (1x day) (en qué estoy trabajando - en qué estoy **bloqueada** - en qué _necesito u ofrezco_ ayuda)
 * Sprint Review (Demo Wednesday)
 
+### Cómo hacemos una historia de usurio
+
+ * Contextualizamos una situación.
+ * Probamos las posibilidades de la situación y sus límites. 
+ * Las compartimos, buscamos compañerxs para hacer equipos y trabajar por temas. 
+ * Probamos las soluciones propuestas y documentamos los resultados.
+
 ## Herramientas
 
 ### Nuestro Forge: [Github](https://github.com/Repurpose-IT/Repurp-OS)
@@ -27,9 +34,12 @@ Issue tracker: [https://github.com/Repurpose-IT/Repurp-OS/issues](https://github
 * También para gestión de proyecto ("Kanban")
 
 Backlog: [https://github.com/Repurpose-IT/Repurp-OS/projects/1](https://github.com/Repurpose-IT/Repurp-OS/projects/1)
+<!---Esta pagina no la encuentro---> 
 
 > Github no es ideal, pero es usado por todo el mundo.
 
 ### Nuestro Chat: Whatasapp Web ("parceros 2025")
 
 > Tampoco es ideal, pero ya lo estamos usando.
+
+
