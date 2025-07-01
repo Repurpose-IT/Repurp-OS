@@ -33,7 +33,7 @@ Issue tracker: [https://github.com/Repurpose-IT/Repurp-OS/issues](https://github
 
 * También para gestión de proyecto ("Kanban")
 
-Backlog: [https://github.com/Repurpose-IT/Repurp-OS/projects/1](https://github.com/Repurpose-IT/Repurp-OS/projects/1)
+Backlog: [https://github.com/Repurpose-IT/Repurp-OS/projects/1](https://github.com/orgs/Repurpose-IT/projects/1)
 <!---Esta pagina no la encuentro---> 
 
 > Github no es ideal, pero es usado por todo el mundo.
