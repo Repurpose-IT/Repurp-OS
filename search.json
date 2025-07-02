@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Hackathon Repurp-OS",
+    "section": "",
+    "text": "📍 Información del Evento\n\n\n\nLugar: Los Monchis\nFechas: 30 de junio - 4 de julio, 2025\nObjetivo: Transformar laptops en herramientas educativas poderosas"
+  },
+  {
+    "objectID": "readme.html#objetivos",
+    "href": "readme.html#objetivos",
+    "title": "Hackathon Repurp-OS",
+    "section": "🎯 Objetivos",
+    "text": "🎯 Objetivos\n\n\n🖥️ Sistema Operativo\nPreparar y ajustar un sistema operativo optimizado para las laptops de Repurpose-IT.\n\n\n⚡ Implementación Masiva\nFlashear este sistema en más de 100 máquinas de manera eficiente.\n\n\n📚 Metodologías Educativas\nProponer metodologías ágiles para el diseño y desarrollo de planes de lección."
+  },
+  {
+    "objectID": "readme.html#metodología-ágil",
+    "href": "readme.html#metodología-ágil",
+    "title": "Hackathon Repurp-OS",
+    "section": "🚀 Metodología Ágil",
+    "text": "🚀 Metodología Ágil\n\n\n\n\n\n\nReferencia Clave\n\n\n\nWhat is Agile? (McKinsey)\n\n\n\n📝 Componentes Principales\n\nUser Stories\n\n“Como [tipo de usuario], quiero [acción] para [beneficio]”\n\nTouch Base Diario\n\nReunión diaria para compartir: - En qué estoy trabajando - En qué estoy bloqueada - En qué necesito u ofrezco ayuda\n\nSprint Review\n\nDemo los miércoles para mostrar avances\n\n\n\n\n🔄 Proceso de Historias de Usuaria\n\nContextualizar una situación\nProbar las posibilidades de la situación y sus límites\nCompartir y buscar compañerxs para hacer equipos por temas\nProbar las soluciones propuestas y documentar resultados"
+  },
+  {
+    "objectID": "readme.html#herramientas",
+    "href": "readme.html#herramientas",
+    "title": "Hackathon Repurp-OS",
+    "section": "🛠️ Herramientas",
+    "text": "🛠️ Herramientas\n\n🔧 Nuestro Forge: GitHub\n\n\n📋 Issue Tracker\nRegistramos todas nuestras tareas y problemas como “Issues”\n🔗 Ver Issues\n\n\n📊 Gestión de Proyecto\nUsamos Kanban para organizar nuestro trabajo\n🔗 Ver Backlog\n\n\n\n\n\n\n\n\nNote\n\n\n\nNota: GitHub no es ideal, pero es la plataforma que utiliza todo el mundo en desarrollo de software.\n\n\n\n\n💬 Nuestro Chat: WhatsApp Web\nGrupo: “parceros 2025”\n\n\n\n\n\n\nWarning\n\n\n\nNota: Tampoco es la herramienta ideal, pero ya la estamos usando y funciona para nuestras necesidades inmediatas."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hackathon Repurp-OS",
