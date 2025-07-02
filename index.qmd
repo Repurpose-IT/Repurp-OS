@@ -1,0 +1,106 @@
+---
+title: "Hackathon Repurp-OS"
+subtitle: "Preparando el futuro de la educación tecnológica"
+author: "Equipo Repurpose-IT"
+date: "2025-06-30 a 2025-07-04"
+date-format: "D MMMM YYYY"
+toc: true
+toc-location: left
+title-block-banner: true
+format:
+  html:
+    code-fold: true
+    code-tools: true
+---
+
+::: {.callout-note}
+## 📍 Información del Evento
+**Lugar:** Los Monchis  
+**Fechas:** 30 de junio - 4 de julio, 2025  
+**Objetivo:** Transformar laptops en herramientas educativas poderosas
+:::
+
+## 🎯 Objetivos
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### 🖥️ Sistema Operativo
+Preparar y ajustar un sistema operativo optimizado para las laptops de Repurpose-IT.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### ⚡ Implementación Masiva
+Flashear este sistema en más de 100 máquinas de manera eficiente.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 📚 Metodologías Educativas
+Proponer metodologías ágiles para el diseño y desarrollo de planes de lección.
+:::
+
+:::
+
+## 🚀 Metodología Ágil
+
+::: {.callout-tip}
+## Referencia Clave
+[What is Agile?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-agile) (McKinsey)
+:::
+
+### 📝 Componentes Principales
+
+**User Stories**
+: "Como [tipo de usuario], quiero [acción] para [beneficio]"
+
+**Touch Base Diario** 
+: Reunión diaria para compartir:
+  - En qué estoy trabajando
+  - En qué estoy **bloqueada**
+  - En qué _necesito u ofrezco_ ayuda
+
+**Sprint Review**
+: Demo los miércoles para mostrar avances
+
+### 🔄 Proceso de Historias de Usuaria
+
+1. **Contextualizar** una situación
+2. **Probar** las posibilidades de la situación y sus límites
+3. **Compartir** y buscar compañerxs para hacer equipos por temas
+4. **Probar** las soluciones propuestas y documentar resultados
+
+## 🛠️ Herramientas
+
+### 🔧 Nuestro Forge: [GitHub](https://github.com/Repurpose-IT/Repurp-OS)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+#### 📋 Issue Tracker
+Registramos todas nuestras tareas y problemas como "Issues"
+
+[🔗 Ver Issues](https://github.com/Repurpose-IT/Repurp-OS/issues){.btn .btn-primary}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### 📊 Gestión de Proyecto
+Usamos Kanban para organizar nuestro trabajo
+
+[🔗 Ver Backlog](https://github.com/orgs/Repurpose-IT/projects/1){.btn .btn-primary}
+:::
+
+:::
+
+::: {.callout-note}
+**Nota:** GitHub no es ideal, pero es la plataforma que utiliza todo el mundo en desarrollo de software.
+:::
+
+### 💬 Nuestro Chat: WhatsApp Web
+
+**Grupo:** "parceros 2025"
+
+::: {.callout-warning}
+**Nota:** Tampoco es la herramienta ideal, pero ya la estamos usando y funciona para nuestras necesidades inmediatas.
+:::
+
+

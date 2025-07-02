@@ -1,0 +1,125 @@
+/*-- scss:defaults --*/
+
+// Colores tierra personalizados
+$primary: #8B4513 !default;       // Saddle Brown
+$secondary: #D2B48C !default;     // Tan
+$success: #9ACD32 !default;       // Yellow Green
+$info: #DEB887 !default;          // Burlywood
+$warning: #CD853F !default;       // Peru
+$danger: #A0522D !default;        // Sienna
+$light: #F5F5DC !default;         // Beige
+$dark: #654321 !default;          // Dark Brown
+
+// Fuentes
+$headings-font-family: "Merriweather", serif !default;
+$font-family-sans-serif: "Source Sans Pro", sans-serif !default;
+
+// Esquema de colores del cuerpo
+$body-bg: #FAF0E6 !default;       // Linen
+$body-color: #5D4037 !default;    // Brown 700
+
+// Colores de enlaces
+$link-color: #8B4513 !default;
+$link-hover-color: #A0522D !default;
+
+/*-- scss:rules --*/
+
+// Estilos personalizados para el contenido
+.quarto-title-banner {
+  background: linear-gradient(135deg, #8B4513 0%, #D2B48C 100%);
+  color: #F5F5DC;
+  padding: 3rem 0;
+}
+
+.quarto-title-block .quarto-title {
+  color: #F5F5DC;
+  font-weight: 700;
+}
+
+// Estilos para el navbar
+.navbar {
+  box-shadow: 0 2px 4px rgba(139, 69, 19, 0.1);
+}
+
+// Estilos para código
+pre {
+  background-color: #F4F4F0;
+  border: 1px solid #D2B48C;
+  border-radius: 8px;
+}
+
+code {
+  background-color: #F4F4F0;
+  color: #8B4513;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+// Estilos para blockquotes
+blockquote {
+  border-left: 4px solid #D2B48C;
+  background-color: #F9F7F4;
+  padding: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+// Estilos para tablas
+.table {
+  --bs-table-bg: #FAF0E6;
+  --bs-table-striped-bg: #F4F4F0;
+  --bs-table-hover-bg: #F0E6D2;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > td {
+  background-color: var(--bs-table-striped-bg);
+}
+
+// Botones con colores tierra
+.btn-primary {
+  background-color: #8B4513;
+  border-color: #8B4513;
+}
+
+.btn-primary:hover {
+  background-color: #A0522D;
+  border-color: #A0522D;
+}
+
+// Cards con temas tierra
+.card {
+  background-color: #FAF0E6;
+  border: 1px solid #D2B48C;
+  box-shadow: 0 2px 8px rgba(139, 69, 19, 0.1);
+}
+
+.card-header {
+  background-color: #F4F4F0;
+  border-bottom: 1px solid #D2B48C;
+  color: #654321;
+  font-weight: 600;
+}
+
+// Sidebar TOC
+.sidebar-navigation .sidebar-item {
+  margin-bottom: 0.2rem;
+}
+
+.sidebar-navigation .sidebar-item a {
+  color: #8B4513;
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+.sidebar-navigation .sidebar-item a:hover {
+  background-color: #F4F4F0;
+  color: #654321;
+}
+
+.sidebar-navigation .sidebar-item.active a {
+  background-color: #D2B48C;
+  color: #654321;
+  font-weight: 600;
+}

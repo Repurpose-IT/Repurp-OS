@@ -1,0 +1,41 @@
+project:
+  type: website
+  
+website:
+  title: "Hackathon Repurp-OS"
+  description: "Documentación del Hackathon Repurp-OS - Los Monchis 2025"
+  
+  navbar:
+    title: "Repurp-OS"
+    background: "#8B4513"
+    foreground: "#F5F5DC"
+    left:
+      - href: index.qmd
+        text: Inicio
+    right:
+      - icon: github
+        href: https://github.com/Repurpose-IT/Repurp-OS
+        aria-label: GitHub
+
+  page-footer:
+    background: "#D2B48C"
+    foreground: "#654321"
+    center: |
+      © 2025 Hackathon Repurp-OS - Los Monchis
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    
+execute:
+  freeze: auto

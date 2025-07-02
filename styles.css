@@ -1,0 +1,100 @@
+/* Estilos adicionales para el tema tierra */
+
+/* Importar fuentes de Google */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+/* Animaciones suaves */
+* {
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+/* Mejoras en la tipografía */
+h1, h2, h3, h4, h5, h6 {
+  color: #654321;
+  font-family: 'Merriweather', serif;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  border-bottom: 3px solid #D2B48C;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  border-bottom: 2px solid #DEB887;
+  padding-bottom: 0.3rem;
+}
+
+/* Estilo para listas */
+ul li::marker {
+  color: #8B4513;
+}
+
+ol li::marker {
+  color: #8B4513;
+  font-weight: bold;
+}
+
+/* Estilos para enlaces externos */
+a[href^="http"]:after {
+  content: " ↗";
+  color: #CD853F;
+  font-size: 0.8em;
+}
+
+/* Resaltado de texto */
+mark {
+  background-color: #F0E68C;
+  color: #654321;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Estilos para el footer */
+.nav-footer {
+  border-top: 3px solid #D2B48C;
+  margin-top: 3rem;
+}
+
+/* Estilo para el contenido principal */
+.quarto-container {
+  max-width: 1200px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .quarto-title-banner {
+    padding: 2rem 0;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  h2 {
+    font-size: 1.3rem;
+  }
+}
+
+/* Estilos para alertas/callouts */
+.callout {
+  border-left: 4px solid #D2B48C;
+  background-color: #F9F7F4;
+}
+
+.callout-note {
+  border-left-color: #8B4513;
+}
+
+.callout-warning {
+  border-left-color: #CD853F;
+}
+
+.callout-important {
+  border-left-color: #A0522D;
+}
+
+.callout-tip {
+  border-left-color: #9ACD32;
+}
