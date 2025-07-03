@@ -1,8 +1,8 @@
 ---
 title: "Hackathon Repurp-OS"
 subtitle: "Preparando el futuro de la educación tecnológica"
-author: "Equipo Repurpose-IT"
-date: "2025-06-30 a 2025-07-04"
+
+
 date-format: "D MMMM YYYY"
 toc: true
 toc-location: left
