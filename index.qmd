@@ -1,9 +1,6 @@
 ---
 title: "Hackathon Repurp-OS"
 subtitle: "Preparando el futuro de la educación tecnológica"
-
-
-date-format: "D MMMM YYYY"
 toc: true
 toc-location: left
 title-block-banner: true

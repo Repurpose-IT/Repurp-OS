@@ -1,5 +1,6 @@
 project:
   type: website
+lang: es
   
 website:
   title: "Hackathon Repurp-OS"
@@ -12,6 +13,8 @@ website:
     left:
       - href: index.qmd
         text: Inicio
+      - href: release.qmd
+        text: Release 2025.7
     right:
       - icon: github
         href: https://github.com/Repurpose-IT/Repurp-OS
@@ -21,7 +24,10 @@ website:
     background: "#D2B48C"
     foreground: "#654321"
     center: |
-      © 2025 Hackathon Repurp-OS - Los Monchis
+      ![](license.png){width=100px}
+      <br> CC-BY-SA 4.0 International License
+      <br>© 2025 Hackathon Repurp-OS
+      <hr>Los Monchis - Santa Marta - Magadalena - Colombia
 
 format:
   html:

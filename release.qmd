@@ -2,28 +2,37 @@
 ---
 
 
-# 👋 Bienvenida y guía rápida
+# 👋 Bienvenida y Guía Rápida
 
 
-Bienvenido/a a tu sistema RepurpOS en Debian. 🐧
+## 💻 Tu sistema: 🐧 Repurp-OS
 
-Desde el equipo de Repurpose-IT te contamos que este es un espacio libre para la educación que sirve para conectar tus expectativas de aprendizaje con tu comunidad. Nuestro objetivo es que las herramientas tecnológicas sean de libre acceso. Esperamos que este sistema te brinde esa libertad. 🌱
+Desde el equipo de Repurpose-IT te contamos que este es un espacio libre para la educación que sirve para conectar tus expectativas de aprendizaje con tu comunidad. Nuestro objetivo es que este sistema te brinde esa libertad. 🌱
+
+:::{.btn .btn-info .btn-lg}
+
+Descarga: 📀 [Repurp-OS 2025.7](https://drive.google.com/file/d/1wiyr61uZ7kf3UDfuCDLGUfqZ6rUPI6KI/view?usp=sharing)
+
+:::
 
 
-A continuación te contamos qué encontrarás en este dispositivo. 📦
+## 🎁 ¿Qué encontrarás en esta computadora? 
 
-Hemos hecho una selección de material autodidacta en el que podrás encontrar diferentes recursos útiles para el aprendizaje, el diseño, la elaboración de tareas y mucho más. Te invitamos a que revises los programas que están catalogados dentro de las carpetas de arte, ciencia, escritura, geografía, matemáticas, programación, sonido, rompecabezas y una carpeta accesible a niños. 🎨🧩
+Hemos hecho una selección de material autodidacta en el que podrás encontrar diferentes recursos útiles para el aprendizaje, el diseño, la elaboración de tareas y mucho más. Te invitamos a que revises los programas que están catalogados dentro de las carpetas de 🎨 arte, ciencia, escritura, geografía, matemáticas, programación, sonido, rompecabezas y una carpeta accesible a niños. 🧩
 
-Además, hemos hecho una selección de videos específicos destinados a que puedas aprender más sobre la comunidad Arhuaca y Kogui, con la finalidad de que las costumbres de tu comunidad permanezcan en tu dispositivo. Todo este material puedes encontrarlo en la carpeta "Videoteca". 📺
+## Videoteca 📺 y Biblioteca 📚
 
-También encontrarás una carpeta llamada "Biblioteca" en la que podrás encontrar herramientas que te ayuden a la redacción y a la adaptación del español como segundo idioma. Utilízala y agrégale lo que creas que sea necesario para tu libre aprendizaje. 📚
+Además, hemos hecho una selección de videos específicos destinados a que puedas aprender más sobre la comunidad Arhuaca y Kogui, con la finalidad de que las costumbres de tu comunidad permanezcan en tu dispositivo. Todo este material puedes encontrarlo en la carpeta "Videoteca" 📺.
 
+También encontrarás una carpeta llamada "Biblioteca" en la que podrás encontrar herramientas que te ayuden a la redacción y a la adaptación del español como segundo idioma. Utilízala y agrégale lo que creas que sea necesario para tu libre aprendizaje 📚.
+
+🤡 _No contamos aún con una discoteca 🕺, pero si tienes música 🪗 que quieras compartir, ¡puedes agregarla! 🎶_ 
 
 ¡Explora, aprende y comparte! 🚀 Este sistema está hecho para ti y tu comunidad.
 
 <div style="margin-top: 2em; display: flex; gap: 1.5em; justify-content: center; align-items: center;">
-  <a href="https://github.com/Repurpose-IT/Repurp-OS/issues" class="btn btn-primary" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Colabora</a>
-  <a href="https://repurpose-it.github.io/Repurp-OS/" class="btn btn-success" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Conócenos</a>
+  <a href="https://github.com/Repurpose-IT/Repurp-OS/issues" class="btn btn-primary" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Puedes reportar un error</a>
+  <a href="https://repurpose-it.github.io/Repurp-OS/" class="btn btn-success" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Saber más</a>
 </div>
 
 
