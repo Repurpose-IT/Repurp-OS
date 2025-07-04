@@ -1,0 +1,23 @@
+
+---
+
+
+# 👋 Bienvenida y guía rápida
+
+
+Bienvenido/a a tu sistema RepurpOS en Debian. 🐧
+
+Desde el equipo de Repurpose-IT te contamos que este es un espacio libre para la educación que sirve para conectar tus expectativas de aprendizaje con tu comunidad. Nuestro objetivo es que las herramientas tecnológicas sean de libre acceso. Esperamos que este sistema te brinde esa libertad. 🌱
+
+
+A continuación te contamos qué encontrarás en este dispositivo. 📦
+
+Hemos hecho una selección de material autodidacta en el que podrás encontrar diferentes recursos útiles para el aprendizaje, el diseño, la elaboración de tareas y mucho más. Te invitamos a que revises los programas que están catalogados dentro de las carpetas de arte, ciencia, escritura, geografía, matemáticas, programación, sonido, rompecabezas y una carpeta accesible a niños. 🎨🧩
+
+Además, hemos hecho una selección de videos específicos destinados a que puedas aprender más sobre la comunidad Arhuaca y Kogui, con la finalidad de que las costumbres de tu comunidad permanezcan en tu dispositivo. Todo este material puedes encontrarlo en la carpeta "Videoteca". 📺
+
+También encontrarás una carpeta llamada "Biblioteca" en la que podrás encontrar herramientas que te ayuden a la redacción y a la adaptación del español como segundo idioma. Utilízala y agrégale lo que creas que sea necesario para tu libre aprendizaje. 📚
+
+RepurpOS es un sistema operativo basado en Debian. Utilízalo con libertad, con el compromiso de que esta libertad no perjudique a los demás. 🤝
+
+
