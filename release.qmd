@@ -18,6 +18,13 @@ Además, hemos hecho una selección de videos específicos destinados a que pued
 
 También encontrarás una carpeta llamada "Biblioteca" en la que podrás encontrar herramientas que te ayuden a la redacción y a la adaptación del español como segundo idioma. Utilízala y agrégale lo que creas que sea necesario para tu libre aprendizaje. 📚
 
-RepurpOS es un sistema operativo basado en Debian. Utilízalo con libertad, con el compromiso de que esta libertad no perjudique a los demás. 🤝
+
+¡Explora, aprende y comparte! 🚀 Este sistema está hecho para ti y tu comunidad.
+
+<div style="margin-top: 2em; display: flex; gap: 1.5em; justify-content: center; align-items: center;">
+  <a href="https://github.com/Repurpose-IT/Repurp-OS/issues" class="btn btn-primary" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Colabora</a>
+  <a href="https://repurpose-it.github.io/Repurp-OS/" class="btn btn-success" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Conócenos</a>
+</div>
+
 
 
