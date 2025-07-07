@@ -98,3 +98,12 @@ mark {
 .callout-tip {
   border-left-color: #9ACD32;
 }
+
+.download {
+  border-radius: 10px;
+  box-shadow: 
+    0 4px 6px rgba(0, 0, 0, 0.1),
+    0 8px 24px rgba(0, 0, 0, 0.2),
+    0 16px 60px rgba(0, 0, 0, 0.4);
+  margin: 0.2cm 3cm;
+}

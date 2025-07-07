@@ -9,9 +9,12 @@
 
 Desde el equipo de Repurpose-IT te contamos que este es un espacio libre para la educación que sirve para conectar tus expectativas de aprendizaje con tu comunidad. Nuestro objetivo es que este sistema te brinde esa libertad. 🌱
 
-:::{.btn .btn-info .btn-lg}
+:::{.btn .btn-info .btn-lg .download}
 
 Descarga: 📀 [Repurp-OS 2025.7](https://drive.google.com/file/d/1wiyr61uZ7kf3UDfuCDLGUfqZ6rUPI6KI/view?usp=sharing)
+
+user: *repurpose*<br>
+pass: *namaste*
 
 :::
 
@@ -31,9 +34,6 @@ También encontrarás una carpeta llamada "Biblioteca" en la que podrás encontr
 ¡Explora, aprende y comparte! 🚀 Este sistema está hecho para ti y tu comunidad.
 
 <div style="margin-top: 2em; display: flex; gap: 1.5em; justify-content: center; align-items: center;">
-  <a href="https://github.com/Repurpose-IT/Repurp-OS/issues" class="btn btn-primary" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Puedes reportar un error</a>
+  <a href="https://github.com/Repurpose-IT/Repurp-OS/issues" class="btn btn-primary" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Reportar un error</a>
   <a href="https://repurpose-it.github.io/Repurp-OS/" class="btn btn-success" target="_blank" style="font-size: 1.25em; padding: 0.75em 2em;">Saber más</a>
 </div>
-
-
-

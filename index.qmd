@@ -68,7 +68,7 @@ Proponer metodologías ágiles para el diseño y desarrollo de planes de lecció
 
 ## 🛠️ Herramientas
 
-### 🔧 Nuestro Forge: [GitHub](https://github.com/Repurpose-IT/Repurp-OS)
+### 🔨 Nuestro Forge: [GitHub](https://github.com/Repurpose-IT/Repurp-OS)
 
 ::: {.grid}
 
